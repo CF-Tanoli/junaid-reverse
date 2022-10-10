@@ -1,4 +1,4 @@
-import os, platform
+import os, platform,time
 os.system("clear")
 print(" or jb new version upload kro fr chalnge kr lena ")
 time.sleep(3)
